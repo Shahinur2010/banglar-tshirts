@@ -1,0 +1,23 @@
+.orange{
+    background-color: orange;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.purple{
+    background-color: purple;
+}
+.pink{
+    background-color: pink;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.bordered{
+    border: 1px solid aquamarine;
+}
